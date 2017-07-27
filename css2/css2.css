@@ -1,0 +1,10 @@
+@font-face{
+	font-family: old_london;
+	font-style: normal; 
+	font-weight: normal;
+	src: url (old_london);
+}
+h1.tipo_1{
+	font-family: fuente;
+	color: red;
+}
